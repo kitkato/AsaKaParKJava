@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main_nav"
+    app:startDestination="@id/homeFragment2">
+
+    <fragment
+        android:id="@+id/homeFragment2"
+        android:name="com.moke.asakapark.HomeFragment"
+        android:label="fragment_home"
+        tools:layout="@layout/fragment_home" />
+    <fragment
+        android:id="@+id/parkFragment"
+        android:name="com.moke.asakapark.ParkFragment"
+        android:label="fragment_park"
+        tools:layout="@layout/fragment_park" />
+    <fragment
+        android:id="@+id/carFragment2"
+        android:name="com.moke.asakapark.CarFragment"
+        android:label="fragment_car"
+        tools:layout="@layout/fragment_car" />
+    <fragment
+        android:id="@+id/profileFragment"
+        android:name="com.moke.asakapark.ProfileFragment"
+        android:label="fragment_profile"
+        tools:layout="@layout/fragment_profile" />
+</navigation>
