@@ -14,7 +14,7 @@
         android:icon="@drawable/ic_car"
         android:title="Car" />
     <item
-        android:id="@+id/personFragment"
+        android:id="@+id/profileFragment"
         android:icon="@drawable/ic_person"
         android:title="Profile" />
 </menu>
