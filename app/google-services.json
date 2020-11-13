@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "277387870445",
+    "firebase_url": "https://asa-ka-park.firebaseio.com",
+    "project_id": "asa-ka-park",
+    "storage_bucket": "asa-ka-park.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:277387870445:android:e5cedb71583651aa430ce4",
+        "android_client_info": {
+          "package_name": "com.moke.asakapark"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "277387870445-v233qocb9ms2upmi8dp0hbijr9nraguq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxjj1Dyjk7w4R7NtrC9oXirQUme529NjU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "277387870445-v233qocb9ms2upmi8dp0hbijr9nraguq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
